@@ -37,7 +37,7 @@ The application maintains student login sessions using ASP.NET Core Sessions.
 ---
 
 ## 2. Cookies Management
-
+ 
 Cookies are used to store user preferences.
 
 ### Functionalities
